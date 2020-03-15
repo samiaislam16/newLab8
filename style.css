@@ -1,0 +1,43 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+	background-color: #EEE;
+	font-family: 'Roboto', sans-serif;
+}
+
+.header{
+	
+	border: 3px solid darkblue;
+	
+
+}
+.right,.left{
+	display: inline-block;
+
+	text-decoration: none;
+	float: top right;
+}
+.right{
+	padding-left: 100px;
+	text-align: right;
+	padding-bottom: 30px;
+	padding-top: 30px;
+
+}
+.order,li,a{
+	list-style: none;
+	text-decoration: none;
+}
+.midleft{
+	text-align: left;
+	display: inline-block;
+
+}
+.footer{
+	border: 2px solid darkblue;
+text-align: center;	
+}
